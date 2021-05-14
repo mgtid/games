@@ -1,2 +1,2 @@
 # games
-chese game c++
+chess game c++
